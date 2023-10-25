@@ -8,6 +8,9 @@ height: 650px;}
 body{
 background-color: rgb(255, 255, 255);
 }
+.parte1{
+    background: aqua;
+}
 h1{
 text-align: center; color: rgb(0, 0, 0)
 }
@@ -16,4 +19,7 @@ text-align: center;
 }
 strong{
 color: rgb(0, 0, 0);
+}
+.parte2{
+    background: darkblue
 }
