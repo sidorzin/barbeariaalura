@@ -6,7 +6,7 @@ width: 100%;
 { width: 100%;
 height: 650px;}
 body{
-background-color: rgb(255, 255, 255);
+background-color: gray
 }
 .parte1{
     background: gray;
@@ -18,7 +18,7 @@ p {
 text-align: center;
 }
 strong{
-color: rgb(0, 0, 0);
+color: red
 }
 .parte2{
     background: gray
